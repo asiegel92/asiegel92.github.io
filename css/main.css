@@ -1,8 +1,9 @@
 
 
 main {
-  margin: 100px;
-  background: #999;
+  margin-top: 100px;
+  padding-right: 20dx;
+  padding-left: 20dx;
   height : 10000px;
 }
 
@@ -30,3 +31,18 @@ a.navbar-brand:hover{
   background-color: transparent;
 }
 
+.carousel-caption {
+  left: 20px;
+  text-align: left;
+}
+
+#project-grid .col-md-4 {
+  text-align: center;
+  margin-top: 10px;
+  background-color: white;
+}
+
+#project-grid .col-md-4 .content {
+  padding: 7px;
+  border: 1px solid black;
+}

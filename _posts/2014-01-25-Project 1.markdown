@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Project 1"
+date:   2014-01-25 12:30:00
+categories: projects
+---

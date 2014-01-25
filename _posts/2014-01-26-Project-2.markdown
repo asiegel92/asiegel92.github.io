@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Project 2"
+date:   2014-01-26 12:30:00
+categories: projects
+extra: "Check out my project"
+---
+
+# This is the header
+## this is a subheader
+
+this is the text
+
+- list 1
+- list 2
+- list 3

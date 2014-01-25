@@ -6,10 +6,7 @@ categories: projects
 extra: "Check out my project"
 ---
 
-# This is the header
-## this is a subheader
-
-this is the text
+this is the summary of the project
 
 - list 1
 - list 2

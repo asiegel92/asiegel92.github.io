@@ -1,5 +1,3 @@
-
-
 main {
   margin-top: 100px;
   padding-right: 20dx;
@@ -49,4 +47,8 @@ a.navbar-brand:hover{
 #project-grid .col-md-4 .content {
   padding: 7px;
   border: 1px solid black;
+}
+
+.post {
+  padding: 0 10px 0 10px;
 }

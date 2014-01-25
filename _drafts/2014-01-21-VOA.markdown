@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2 VOA"
+title:  "VOA"
 date:   2014-01-21 12:30:00
 categories: projects
 extra: ""

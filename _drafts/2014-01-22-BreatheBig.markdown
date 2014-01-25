@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1 Breathe Big"
+title:  "Breathe Big"
 date:   2014-01-22 12:30:00
 categories: projects
 extra: ""

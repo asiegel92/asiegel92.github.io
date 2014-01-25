@@ -37,15 +37,10 @@ a.navbar-brand:hover{
   text-align: left;
 }
 
-#project-grid .col-md-4 {
+#project-grid .col-sm-4 {
   text-align: center;
   margin-top: 10px;
   background-color: white;
-}
-
-#project-grid .col-md-4 .content {
-  padding: 7px;
-  border: 1px solid black;
 }
 
 .post {

@@ -18,8 +18,8 @@
     </head>
     <body>
 
-<header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
-  <div class="container">
+<header class="navbar navbar-fixed-top bs-docs-nav" role="banner">
+  <div id="nav-container" class="container">
     <div class="navbar-header">
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
@@ -45,8 +45,46 @@
 
 <div class="container">
 
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+<!--             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
             <a class="extra" href="/">home</a>
+ -->
+
+
+<!-- CAROUSEL -->
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="..." alt="...">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+    ...
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+
+
+
+
+
+
+
 
             <div class="contact">
               <p>

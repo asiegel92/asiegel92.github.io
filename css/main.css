@@ -31,6 +31,10 @@ a.navbar-brand:hover{
   background-color: transparent;
 }
 
+.navbar-toggle .icon-bar {
+  background-color: white;
+}
+
 .carousel-caption {
   left: 20px;
   text-align: left;

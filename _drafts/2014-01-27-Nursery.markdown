@@ -4,5 +4,5 @@ title:  "Nursery"
 date:   2014-01-27 12:30:00
 categories: projects
 extra: ""
-image: "Grid_Nursery.png"
+grid: "Grid_Nursery.png"
 ---

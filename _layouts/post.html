@@ -2,49 +2,48 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="col-sm-6 col-sm-offset-3">
-	  <div class="post">
+	<div class="row col-sm-9 col-sm-offset-2">
+			  <div class="col-sm-1 post-nav-buttons"><p>BACK</p></div>
+			  <div class="col-sm-8">
+				  <!-- CAROUSEL -->
+				  <div id="post-carousel" class="carousel slide" data-ride="carousel">
+	
+					<!-- INDICATORS -->
+				    <ol class="carousel-indicators">
+						{% for image in page.images %}
+				    	{% if forloop.index0 == 0 %}
+					    <li data-target="#post-carousel" data-slide-to="{{forloop.index0}}" class="active"></li>
+					    	{% else %}
+						<li data-target="#post-carousel" data-slide-to="{{forloop.index0}}"></li>
+					    	{% endif }%}
+						{% endfor %}
+					</ol>
+				    <!-- Wrapper for slides -->
+				    <div class="carousel-inner">
 
-		  <!-- CAROUSEL -->
-		  <div id="post-carousel" class="carousel slide" data-ride="carousel">
-			
-			<!-- INDICATORS -->
-		    <ol class="carousel-indicators">
-				{% for image in page.images %}
-		    	{% if forloop.index0 == 0 %}
-			    <li data-target="#post-carousel" data-slide-to="{{forloop.index0}}" class="active"></li>
-	  	    	{% else %}
-				<li data-target="#post-carousel" data-slide-to="{{forloop.index0}}"></li>
-	  	    	{% endif }%}
-				{% endfor %}
-			</ol>
-		    <!-- Wrapper for slides -->
-		    <div class="carousel-inner">
+				  	{% for image in page.images %}
+				  	    {% if forloop.index0 == 0 %}
+				  	    <div class="item active">
+				  	    {% else %}
+				  	    <div class="item">
+				  	    {% endif }%}
+				  	      <img src="/images/{{image}}" class="img-responsive" alt="">
+				  	      <div class="carousel-caption">
+				  	        <h2>{{image.title}}</h4>
+				  	        <p>{{image.desc}}</p>
+				  	      </div>
+				  	    </div>
+				  	{% endfor %}
 
-		  	{% for image in page.images %}
-		  	    {% if forloop.index0 == 0 %}
-		  	    <div class="item active">
-		  	    {% else %}
-		  	    <div class="item">
-		  	    {% endif }%}
-		  	      <img src="/images/{{image}}" class="img-responsive" alt="">
-		  	      <div class="carousel-caption">
-		  	        <h2>{{image.title}}</h4>
-		  	        <p>{{image.desc}}</p>
-		  	      </div>
-		  	    </div>
-		  	{% endfor %}
-
-		    </div>
-			
-		  </div>
-
-  		<h1>{{ page.title }}</h1>
-		
-		{{ content }}
-		
+				    </div>
+	
+				  </div>
+			  </div>
+			  <div class="col-sm-1 post-nav-buttons"><p>FORWARD</p></div>
 	</div>
 
+  <div class="row col-sm-8 col-sm-offset-2">
+    <h1>{{ page.title }}</h1>
+
+    {{ content }}
   </div>
-</div>

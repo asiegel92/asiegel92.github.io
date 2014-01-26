@@ -2,8 +2,8 @@
 layout: default
 ---
 
-	<div class="row col-sm-9 col-sm-offset-2">
-			  <div class="col-sm-1 post-nav-buttons"><p>BACK</p></div>
+	<div class="col-sm-12">
+        <div class="col-sm-2 post-nav-buttons left-button"><p>BACK</p></div>
 			  <div class="col-sm-8">
 				  <!-- CAROUSEL -->
 				  <div id="post-carousel" class="carousel slide" data-ride="carousel">
@@ -38,12 +38,11 @@ layout: default
 				    </div>
 	
 				  </div>
+          
+          <h1>{{ page.title }}</h1>
+
+          {{ content }}
+          
 			  </div>
-			  <div class="col-sm-1 post-nav-buttons"><p>FORWARD</p></div>
+        <div class="col-sm-2 post-nav-buttons"><p>MORE</p></div>
 	</div>
-
-  <div class="row col-sm-8 col-sm-offset-2">
-    <h1>{{ page.title }}</h1>
-
-    {{ content }}
-  </div>

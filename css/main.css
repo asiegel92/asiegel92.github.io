@@ -62,12 +62,12 @@ a.navbar-brand:hover{
 
 /*PROJECT PAGES*/
 .post-nav-buttons {
-  background-color: yellow;
+}
+.left-button {
+  text-align: right;
 }
 @media (max-width: 768px) {
   .post-nav-buttons {
-    padding: 0px;
-    width: 0px;
     display: none;
   }
 }

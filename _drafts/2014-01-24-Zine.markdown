@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Zine"
+date:   2014-01-24 12:30:00
+categories: projects
+extra: ""
+image: "Grid_Zine.jpg"
+---

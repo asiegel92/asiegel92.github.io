@@ -1,3 +1,4 @@
+/*FONTS*/
 body {
   font-family: 'Inconsolata', sans-serif;
   font-weight: bold;
@@ -8,8 +9,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-weight: bold;
 }
 
+/*MAIN PAGE*/
 main {
-  margin-top: 100px;
+  margin-top: 60px;
   padding-right: 20dx;
   padding-left: 20dx;
 }
@@ -42,6 +44,7 @@ a.navbar-brand:hover{
   background-color: white;
 }
 
+/*CAROUSEL*/
 .carousel-caption {
   left: 50px;
   text-align: left;
@@ -49,12 +52,15 @@ a.navbar-brand:hover{
   text-shadow: none;
 }
 
+/*PROJECT GRID*/
 #project-grid .col-sm-4 {
   text-align: center;
   margin-top: 10px;
   background-color: white;
 }
 
+
+/*PROJECT PAGES*/
 .post {
   padding: 0 10px 0 10px;
 }

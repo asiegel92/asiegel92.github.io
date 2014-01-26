@@ -16,6 +16,13 @@ main {
   padding-left: 20dx;
 }
 
+/*NAV BAR*/
+@media (min-width: 1200px) {
+    .navbar .container{
+        max-width: 720px;
+    }
+}
+
 .navbar-fixed-top {
   background-color: rgba(208,208,208,.8);
 

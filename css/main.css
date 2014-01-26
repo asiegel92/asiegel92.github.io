@@ -17,7 +17,7 @@ main {
 }
 
 .navbar-fixed-top {
-  background-color: rgba(89,184,195,.8);
+  background-color: rgba(208,208,208,.8);
 
   -webkit-box-shadow: 0px 2px 12px -2px rgba(0,0,0,.08);
   -moz-box-shadow: 0px 2px 12px -2px rgba(0,0,0,.08);
@@ -25,18 +25,18 @@ main {
 }
 
 a.navbar-brand {
-  color: white;  
+  color: black;  
 }
 a.navbar-brand:hover{
-  color: grey;  
+  color: rgb(0,255,255);  
 }
 
 .navbar-nav > li > a {
-  color: white;  
+  color: black;  
 }
 
 .nav > li > a:hover, .nav > li > a:focus {
-  color: grey;  
+  color: rgb(0,255,255);  
   background-color: transparent;
 }
 

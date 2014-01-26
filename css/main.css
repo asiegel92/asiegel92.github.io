@@ -17,9 +17,19 @@ main {
 }
 
 /*NAV BAR*/
+@media (min-width: 768px) {
+    #nav-container.container {
+      max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+    #nav-container.container {
+      max-width: 626px;
+    }
+}
 @media (min-width: 1200px) {
-    .navbar .container{
-        max-width: 720px;
+    #nav-container.container {
+      max-width: 760px;
     }
 }
 

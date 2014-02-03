@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Make Shit"
+date:   2014-01-28 12:30:00
+categories: projects
+extra: ""
+grid: ""
+---

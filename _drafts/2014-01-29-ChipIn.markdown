@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CHIP In Campaign"
-date:   2014-01-28 12:30:00
+date:   2014-01-29 12:30:00
 categories: projects
 extra: ""
 grid: ""

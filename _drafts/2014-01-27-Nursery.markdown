@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nursery"
+title:  "Nursery Rhymes"
 date:   2014-01-27 12:30:00
 categories: projects
 extra: ""
@@ -8,7 +8,8 @@ grid: "Grid_Nursery.png"
 ---
 
 These two illustrations depict the well-known nursery rhyme "Jack and Jill" and the lesser-known "I Saw a Ship a-Sailing."
-<div>
-<img src="Jack+Jill.png"/>
-<img src="ShipASailin.png"/>
-</div>
+
+<img src="/images/Jack+Jill.png"/>
+<img src="/images/ShipASailin.png"/>
+
+

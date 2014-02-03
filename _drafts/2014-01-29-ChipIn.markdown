@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "CHIP In Campaign"
+date:   2014-01-28 12:30:00
+categories: projects
+extra: ""
+grid: ""
+---
+
+Today, there are 7.2 million uninsured children in the United States. Many of these children are eligible to receive benefits through the Children’s Health Insurance Program (CHIP), but their parents are unaware or undereducated on what CHIP can do for them. CHIP IN! is a campaign developed to connect as many children to healthcare as possible by educating adults on the existence and benefits of CHIP. Through postage stamps and bus advertisements, CHIP IN! aims to reach a wide number of adults in the appropriate income range.

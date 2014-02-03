@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "Zine"
+title:  "Practically Imperfect"
 date:   2014-01-24 12:30:00
 categories: projects
 extra: ""
 grid: "Grid_Zine.jpg"
+images: [ALS_1282.jpg, ALS_1283.jpg, ALS_1287.jpg, ALS_1295.jpg]
+
 ---
+
+
+Practically Imperfect In Every Way is a book of curated zines. Each zine was designed by a student studying communication design at Washington University in St. Louis. My zine, “A Children’s Story,” appears first.
+
+“A Children’s Story” juxtaposes traditional children’s illustration with hard and shocking facts about children’s welfare in the United States. Information presented in this zine aims to shock adults and force them to realize that the story of children in the U.S. today isn’t as pleasant as it may seem. It is a call for those in power to help those who have none.

@@ -4,7 +4,7 @@ title:  "CHIP In Campaign"
 date:   2014-01-29 12:30:00
 categories: projects
 extra: ""
-grid: ""
+grid: "Grid_ChipIn.png"
 images: [ALS_1572.jpg, ALS_1582.jpg]
 
 ---

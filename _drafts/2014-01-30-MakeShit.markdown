@@ -4,7 +4,7 @@ title:  "Make Shit"
 date:   2014-01-30 12:30:00
 categories: projects
 extra: ""
-grid: ""
+grid: "Grid_MakeShit.png"
 ---
 
 Make Shit is simultaneoulsy a 4-pack of bum wipes for designs and a design manifesto. 

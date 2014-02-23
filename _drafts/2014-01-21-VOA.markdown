@@ -4,7 +4,7 @@ title:  "VOA"
 date:   2014-01-21 12:30:00
 categories: projects
 extra: ""
-grid: "Grid_VOA.jpg"
+grid: "Grid_VOA.png"
 ---
 
-VOA Associates is a global architecture design firm working to develop their ethos and define themselves on a global scale. I worked to creat a book that focuses on communicating their mission and values clearly, while also giving new employees and clients a sense of how VOA works, what their goals are, and who drives their design process.These drawings were created for the book.
+VOA Associates is a global architecture design firm working to develop their ethos and define themselves on a global scale. I worked to create a book that focuses on communicating their mission and values clearly, while also giving new employees and clients a sense of how VOA works, what their goals are, and what drives their design process.These drawings were created for the book.

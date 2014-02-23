@@ -3,7 +3,7 @@ layout: post
 title:  "Wendell Berry"
 date:   2014-01-23 12:30:00
 extra: ""
-grid: "Grid_WendellBerry.jpg"
+grid: "Grid_WendellBerry.png"
 images: [ALS_1466.jpg, ALS_1471.jpg, ALS_1495.jpg, ALS_1502.jpg]
 ---
 

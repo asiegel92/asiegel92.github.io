@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sweet Home Chicago"
-date:   2014-01-31 12:30:00
+date:   2014-02-01 12:30:00
 categories: projects
 extra: ""
 grid: "Grid_SweetHomeChicago.png"

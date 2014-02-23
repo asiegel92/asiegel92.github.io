@@ -4,7 +4,7 @@ title:  "NAMI Guidebook"
 date:   2014-01-28 12:30:00
 categories: projects
 extra: ""
-grid: ""
+grid: "Grid_Nami.png"
 ---
  
  The NAMI manual redesign took existing copy and reformatted it using a more consistent system. The process involved gaining a thorough understanding of the course material in order to establish a hierarchy within the given information. Type and color are used to define the hierarchy clearly while also ensuring that the manual is easy to read for the Co-Leaders of the education program.
